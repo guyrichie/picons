@@ -9784,3 +9784,109 @@ ln -s yletv2.png 1_0_1_21_1001_20F6_EEEE0000_0_0_0.png
 # RADIO
 
 
+## UNITED KINGDOM, LONDON - CRYSTAL PALACE ##
+
+# TV
+
+ln -s bbci.png 1_0_1_1C00_1044_233A_EEEE0000_0_0_0.png
+ln -s bbci.png 1_0_1_1C40_1044_233A_EEEE0000_0_0_0.png
+ln -s 4music.png 1_0_1_6440_6040_233A_EEEE0000_0_0_0.png
+ln -s 4seven.png 1_0_1_6A20_6040_233A_EEEE0000_0_0_0.png
+ln -s 5usa.png 1_0_1_32C0_3006_233A_EEEE0000_0_0_0.png
+ln -s 5star.png 1_0_1_3280_3006_233A_EEEE0000_0_0_0.png
+ln -s adultbabestation.png 1_0_1_6D00_6040_233A_EEEE0000_0_0_0.png
+ln -s adultbabestation2.png 1_0_1_5D60_5040_233A_EEEE0000_0_0_0.png
+ln -s adultblue.png 1_0_1_5E40_5040_233A_EEEE0000_0_0_0.png
+ln -s adultparty.png 1_0_1_5EC0_5040_233A_EEEE0000_0_0_0.png
+ln -s adultsmiletv2.png 1_0_1_6B80_6040_233A_EEEE0000_0_0_0.png
+ln -s adultsmiletv3.png 1_0_1_5780_5040_233A_EEEE0000_0_0_0.png
+ln -s aljazeera.png 1_0_1_6C40_6040_233A_EEEE0000_0_0_0.png
+ln -s argos.png 1_0_1_6CA0_6040_233A_EEEE0000_0_0_0.png
+ln -s bbcfour.png 1_0_1_11C0_1044_233A_EEEE0000_0_0_0.png
+ln -s bbcnews.png 1_0_1_1100_1044_233A_EEEE0000_0_0_0.png
+ln -s bbcone.png 1_0_1_1044_1044_233A_EEEE0000_0_0_0.png
+ln -s bbcparliament.png 1_0_1_1280_1044_233A_EEEE0000_0_0_0.png
+ln -s bbcredbutton.png 1_0_1_1140_1044_233A_EEEE0000_0_0_0.png
+ln -s bbcthree.png 1_0_1_10C0_1044_233A_EEEE0000_0_0_0.png
+ln -s bbctwo.png 1_0_1_10BF_1044_233A_EEEE0000_0_0_0.png
+ln -s bidtv.png 1_0_1_37C0_3006_233A_EEEE0000_0_0_0.png
+ln -s cbbc.png 1_0_1_1200_1044_233A_EEEE0000_0_0_0.png
+ln -s cbeebies.png 1_0_1_1240_1044_233A_EEEE0000_0_0_0.png
+ln -s challenge.png 1_0_1_56D2_5040_233A_EEEE0000_0_0_0.png
+ln -s channel4.png 1_0_1_20C0_2005_233A_EEEE0000_0_0_0.png
+ln -s channel4plus1.png 1_0_1_2104_2005_233A_EEEE0000_0_0_0.png
+ln -s channel5.png 1_0_1_2134_2005_233A_EEEE0000_0_0_0.png
+ln -s channel5plus1.png 1_0_1_32E0_3006_233A_EEEE0000_0_0_0.png
+ln -s citv.png 1_0_1_3EA0_3006_233A_EEEE0000_0_0_0.png
+ln -s communitychannel.png 1_0_1_5E00_5040_233A_EEEE0000_0_0_0.png
+ln -s createandcraft.png 1_0_1_5F40_5040_233A_EEEE0000_0_0_0.png
+ln -s dave.png 1_0_1_5700_5040_233A_EEEE0000_0_0_0.png
+ln -s davejavu.png 1_0_1_3F30_3006_233A_EEEE0000_0_0_0.png
+ln -s e4.png 1_0_1_2100_2005_233A_EEEE0000_0_0_0.png
+ln -s e4plus1.png 1_0_1_5740_5040_233A_EEEE0000_0_0_0.png
+ln -s espn.png 1_0_1_3EE0_3006_233A_EEEE0000_0_0_0.png
+ln -s filmfour.png 1_0_1_6A00_6040_233A_EEEE0000_0_0_0.png
+ln -s foodnetwork.png 1_0_1_5A00_5040_233A_EEEE0000_0_0_0.png
+ln -s gold.png 1_0_1_3CC0_3006_233A_EEEE0000_0_0_0.png
+ln -s gemstv.png 1_0_1_5F80_5040_233A_EEEE0000_0_0_0.png
+ln -s home.png 1_0_1_3A80_3006_233A_EEEE0000_0_0_0.png
+ln -s idealworld.png 1_0_1_6540_6040_233A_EEEE0000_0_0_0.png
+ln -s itv1.png 1_0_1_2045_2005_233A_EEEE0000_0_0_0.png
+ln -s itv1plus1.png 1_0_1_20A9_2005_233A_EEEE0000_0_0_0.png
+ln -s itv2.png 1_0_1_2085_2005_233A_EEEE0000_0_0_0.png
+ln -s itv2plus1.png 1_0_1_3E50_3006_233A_EEEE0000_0_0_0.png
+ln -s itv3.png 1_0_1_3EB0_3006_233A_EEEE0000_0_0_0.png
+ln -s itv4.png 1_0_1_6D80_6040_233A_EEEE0000_0_0_0.png
+# Place holder for service name - Marketplace
+ln -s more4.png 1_0_1_20FA_2005_233A_EEEE0000_0_0_0.png
+# Place holder for service name - Movie Mix
+ln -s picktv.png 1_0_1_56C0_5040_233A_EEEE0000_0_0_0.png
+ln -s pricedroptv.png 1_0_1_57C0_5040_233A_EEEE0000_0_0_0.png
+ln -s quest.png 1_0_1_38A2_3006_233A_EEEE0000_0_0_0.png
+ln -s qvc.png 1_0_1_3340_3006_233A_EEEE0000_0_0_0.png
+ln -s qvcbeauty.png 1_0_1_6E80_6040_233A_EEEE0000_0_0_0.png
+ln -s racinguk.png 1_0_1_6F00_6040_233A_EEEE0000_0_0_0.png
+ln -s really.png 1_0_1_5CA0_5040_233A_EEEE0000_0_0_0.png
+ln -s rocksandco.png 1_0_1_6CC0_6040_233A_EEEE0000_0_0_0.png
+ln -s russiatoday.png 1_0_1_6B40_6040_233A_EEEE0000_0_0_0.png
+ln -s skynewsuk.png 1_0_1_5640_5040_233A_EEEE0000_0_0_0.png
+ln -s skysports1uk.png 1_0_1_6A60_6040_233A_EEEE0000_0_0_0.png
+ln -s skysports2uk.png 1_0_1_6AA0_6040_233A_EEEE0000_0_0_0.png
+ln -s televisionx.png 1_0_1_3B80_3006_233A_EEEE0000_0_0_0.png
+ln -s thejewellerychannel.png 1_0_1_3824_3006_233A_EEEE0000_0_0_0.png
+ln -s thezone.png 1_0_1_38C4_3006_233A_EEEE0000_0_0_0.png
+ln -s topupanytime.png 1_0_1_3F60_3006_233A_EEEE0000_0_0_0.png
+ln -s topupanytime.png 1_0_1_3FA0_3006_233A_EEEE0000_0_0_0.png
+ln -s topupanytime.png 1_0_1_3FA4_3006_233A_EEEE0000_0_0_0.png
+ln -s topupanytime.png 1_0_1_3FAC_3006_233A_EEEE0000_0_0_0.png
+ln -s viva.png 1_0_1_6480_6040_233A_EEEE0000_0_0_0.png
+# Place holder for service name - xxXpanded TV
+ln -s yesterday.png 1_0_1_64C0_6040_233A_EEEE0000_0_0_0.png
+
+# RADIO
+
+ln -s radio.absoluteradio.png 1_0_2_3960_3006_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio6music.png 1_0_2_1680_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcasiannetwork.png 1_0_2_1740_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio1xtra.png 1_0_2_1700_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio5live.png 1_0_2_1600_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio5livesportsextra.png 1_0_2_1640_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio1.png 1_0_2_1A40_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio2.png 1_0_2_1A80_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio3.png 1_0_2_1AC0_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio4.png 1_0_2_1B00_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcradio4extra.png 1_0_2_16C0_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.bbcworldservice.png 1_0_2_1780_1044_233A_EEEE0000_0_0_0.png
+ln -s radio.capitalfm.png 1_0_2_39A0_3006_233A_EEEE0000_0_0_0.png
+ln -s radio.heart.png 1_0_2_3980_3006_233A_EEEE0000_0_0_0.png
+ln -s radio.heat.png 1_0_2_6680_6040_233A_EEEE0000_0_0_0.png
+ln -s radio.kerrang.png 1_0_2_66C0_6040_233A_EEEE0000_0_0_0.png
+ln -s radio.kiss.png 1_0_2_6640_6040_233A_EEEE0000_0_0_0.png
+ln -s radio.magic.png 1_0_2_6800_6040_233A_EEEE0000_0_0_0.png
+ln -s radio.premierradio.png 1_0_2_6E00_6040_233A_EEEE0000_0_0_0.png
+ln -s radio.q.png 1_0_2_6840_6040_233A_EEEE0000_0_0_0.png
+ln -s radio.smashhits.png 1_0_2_69A0_6040_233A_EEEE0000_0_0_0.png
+ln -s radio.smoothradio.png 1_0_2_6700_6040_233A_EEEE0000_0_0_0.png
+ln -s radio.talksport.png 1_0_2_5840_5040_233A_EEEE0000_0_0_0.png
+ln -s radio.thehits.png 1_0_2_67C0_6040_233A_EEEE0000_0_0_0.png
+
